@@ -1,0 +1,19 @@
+# Canned replies for /r/books
+# Each reply is preceeded with a '#CR'.  All the text until the next #CR will be used for a single reply.
+
+#CR
+Please post book recommendation requests in /r/SuggestMeABook or in the Weekly Recommendation Thread.
+
+#CR
+Try asking in /r/WhatsThatBook or /r/tipofmytongue
+
+#CR
+This subject has been very popular in the past. Please use reddit search and/or check the /r/books/wiki/faq.
+
+
+#CR
+Please post lists of books in /r/booklists
+
+#CR
+Please post TIL articles in /r/til.
+
